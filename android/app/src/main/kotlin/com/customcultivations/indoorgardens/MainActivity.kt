@@ -1,0 +1,6 @@
+package com.customcultivations.indoorgardens
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
